@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 # GitHub Stats: 
 ![](https://github-readme-stats.shion.dev/api?username=lauraknny&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=false&count_private=false)<br/>
