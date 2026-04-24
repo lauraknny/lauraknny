@@ -1,4 +1,4 @@
-## Hi there 👋🏻
+## Hi there 👋
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lauraknny&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_bust=1)<br/>
